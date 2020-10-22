@@ -1,4 +1,6 @@
 # ETP Codeless
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falphax777%2Fcodeless.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falphax777%2Fcodeless?ref=badge_shield)
+
 
 ETP Codeless is a stand-alone Java project created by T-Mobile. ETP codeless project allows you to quickly write tests using basic yaml and spreadsheet files without having to have in-depth understanding of writing Java automation tests.
 
@@ -119,6 +121,9 @@ After above command runs, it generates a .jar file that has all five components 
 ## License
 Codeless is released under the [Apache 2.0 License](https://github.com/tmobile/codeless/blob/master/LICENSE)
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falphax777%2Fcodeless.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falphax777%2Fcodeless?ref=badge_large)
+
 ## Acknowledgments
 
-Apart from the awesome T-Mobile FTEs and partners who have been contributing to the project, we want to shout out specifically to [Rob Graff](https://github.com/rob-g4) who came up with the initial design and implementation as well as the name **Codeless**. 
+Apart from the awesome T-Mobile FTEs and partners who have been contributing to the project, we want to shout out specifically to [Rob Graff](https://github.com/rob-g4) who came up with the initial design and implementation as well as the name **Codeless**.
